@@ -1,0 +1,43 @@
+train: ./datasets/coco128/images
+val: ./datasets/coco128/images
+
+
+# Classes
+names:
+  0: bottle-blue
+  1: bottle-green
+  2: bottle-dark
+  3: bottle-milk
+  4: bottle-transp
+  5: bottle-multicolor
+  6: bottle-yogurt
+  7: bottle-oil
+  8: cans
+  9: juice-cardboard
+  10: milk-cardboard
+  11: detergent-color
+  12: detergent-transparent
+  13: detergent-box
+  14: canister
+  15: bottle-blue-full
+  16: bottle-transp-full
+  17: bottle-dark-full
+  18: bottle-green-full
+  19: bottle-multicolorv-full
+  20: bottle-milk-full
+  21: bottle-oil-full
+  22: detergent-white
+  23: bottle-blue5l
+  24: bottle-blue5l-full
+  25: glass-transp
+  26: glass-dark
+  27: glass-green
+
+
+
+
+
+
+
+
+
